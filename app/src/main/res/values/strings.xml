@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChanBan</string>
+    <string name="click_to_find_apps">Sanitize my phone</string>
+    <string name="click_to_share">Share</string>
+    <string name="apps_on_your_phone_will_be_listed_here">Apps on your phone will be listed here...</string>
+    <string name="ChanApps">Banned apps will be listed here...</string>s
+</resources>
